@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "pnpm --filter @epec-element/play dev",
     "docs:dev": "pnpm --filter @epec-element/docs dev",
-    "docs:buld": "pnpm --filter @epec-element/docs buld",
+    "docs:build": "pnpm --filter @epec-element/docs build",
     "test": "echo 'todo'"
   },
   "keywords": [],
